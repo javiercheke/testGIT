@@ -12,3 +12,8 @@ git commit -m "mensaje"
 
 git push , para subir los commits creados 
 
+El flujo de trabajo mas sencillo con vscode y un navegador.
+
+1. En el navegador abrir github y crear un nuevo repositorio.
+2. En el vscode desde Source Control, clic en Open repository seleccionar el repositorio creado.
+3. vscode pedira la direccion donde crear el repositorio en local y creara un workspace para empezar a funcionar.
