@@ -1,5 +1,14 @@
 Prueba via web
 El visual ya crea una carpeta para repositorio, no hay crear una nueva.
 Git status reconoce la rama incluso dentro de las carpetas del directorio interno del proyecto
+Cuando se guarda el fichero la extension del visual reconoce el cambio 
 
+git status 
+veo la rama en que estoy y los cambios pendientes de commit
+
+git add "ruta y nombre del fichero"
+
+git commit -m "mensaje"
+
+git push , para subir los commits creados 
 
