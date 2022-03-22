@@ -1,4 +1,5 @@
 Prueba via web
 El visual ya crea una carpeta para repositorio, no hay crear una nueva.
-Git status reconoce la rama incluso dentro de las carpetas del directorio interno del proyectp
+Git status reconoce la rama incluso dentro de las carpetas del directorio interno del proyecto
+
 
